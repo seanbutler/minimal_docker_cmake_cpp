@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  testcppapp:
+    image: testcppapp
+    build:
+      context: .
+      dockerfile: ./Dockerfile

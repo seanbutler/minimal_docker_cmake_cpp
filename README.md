@@ -1,1 +1,1 @@
-# test_cpp_app
+# minimal docker and cpp repo
